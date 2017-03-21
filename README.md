@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # BullhornNovoTemplate
-=======
-# BullhornNovo
->>>>>>> 8a35a5feadad3fbd37d8def1a90aa18f20569020
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.2.
 

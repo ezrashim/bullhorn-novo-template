@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "bullhorn-novo-template",
-=======
-  "name": "bullhorn-novo",
->>>>>>> 8a35a5feadad3fbd37d8def1a90aa18f20569020
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
