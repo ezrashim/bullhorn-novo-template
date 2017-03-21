@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.2.
 
+# Table of Contents
+1. Set Up
+2. [Running the app on your local machine](#running-app)
+
 ## Set up
 * Install [Node.js® and npm](https://nodejs.org/en/download/) if they are not already on your machine.
 
@@ -9,7 +13,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 * Then install the [Angular CLI](https://github.com/angular/angular-cli) globally.
 
-## Running the app on your local machine
+## Running the app on your local machine <a id="running-app"></a>
 
 * Run `git clone https://github.com/ezrashim/bullhorn-novo-template.git`
 * Run `cd bullhorn-novo-template`
