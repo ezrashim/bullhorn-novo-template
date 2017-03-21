@@ -2,15 +2,19 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.2.
 
-## Development server
+## Running the app on your local machine
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+* on your command prompt/terminal, `git clone https://github.com/ezrashim/bullhorn-novo-template.git`
+* Run `cd bullhorn-novo-template`
+* Run `npm install`
+* Run `ng serve` for a dev server.
+* Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Editing Static HTML
 
-* navigate to src > app > app.component.html.
+* navigate to `src > app > app.component.html`.
 * copy and paste novo-elements snippets from [novo-elements](http://bullhorn.github.io/novo-elements/#/button).
-* add any additional styling on src > app > app.component.scss.
+* add any additional styling on `src > app > app.component.scss`.
 
 ## Code scaffolding
 
