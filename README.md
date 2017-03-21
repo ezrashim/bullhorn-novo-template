@@ -3,10 +3,12 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.2.
 
 # Table of Contents
-1. Set Up
+1. [Set Up](#setup)
 2. [Running the app on your local machine](#running-app)
+3. [Using Novo Components](#use-novo)
+4. [Further help](#help)
 
-## Set up
+## Set up <a id="setup"></a>
 * Install [Node.js® and npm](https://nodejs.org/en/download/) if they are not already on your machine.
 
 > Verify that you are running at least node 6.9.x and npm 3.x.x by running node -v and npm -v in a terminal/console window. Older versions produce errors, but newer versions are fine.
@@ -21,12 +23,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * Run `ng serve` for a dev server.
 * Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Using Novo Components
+## Using Novo Components <a id="use-novo"></a>
 
 * navigate to `src > app > app.component.html`.
 * copy and paste novo-elements snippets from [novo-elements](http://bullhorn.github.io/novo-elements/#/button).
 * add any additional styling on `src > app > app.component.scss`.
 
-## Further help
+## Further help <a id="help"></a>
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
