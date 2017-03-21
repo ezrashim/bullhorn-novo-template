@@ -8,9 +8,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Editing Static HTML
 
-navigate to src > app > app.component.html
-copy and paste novo-elements snippets from [novo-elements](http://bullhorn.github.io/novo-elements/#/button).
-add any additional styling on src > app > app.component.scss.
+* navigate to src > app > app.component.html.
+* copy and paste novo-elements snippets from [novo-elements](http://bullhorn.github.io/novo-elements/#/button).
+* add any additional styling on src > app > app.component.scss.
 
 ## Code scaffolding
 
