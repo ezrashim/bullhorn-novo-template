@@ -17,7 +17,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 * Run `ng serve` for a dev server.
 * Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Using novo-elements in app.component.html
+## Using Novo Components
 
 * navigate to `src > app > app.component.html`.
 * copy and paste novo-elements snippets from [novo-elements](http://bullhorn.github.io/novo-elements/#/button).
