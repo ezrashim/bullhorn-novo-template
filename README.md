@@ -26,7 +26,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Using Novo Components <a id="use-novo"></a>
 
 * navigate to `src > app > app.component.html`.
-* copy and paste novo-elements snippets from [novo-elements](http://bullhorn.github.io/novo-elements/#/button).
+* copy and paste novo-element snippets from [novo-elements](http://bullhorn.github.io/novo-elements/#/button).
 * add any additional styling on `src > app > app.component.scss`.
 
 ## Further help <a id="help"></a>
