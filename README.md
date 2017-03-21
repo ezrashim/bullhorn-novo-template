@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Running the app on your local machine
 
-* on your command prompt/terminal, `git clone https://github.com/ezrashim/bullhorn-novo-template.git`
+* On your Command Prompt/ Terminal, run `git clone https://github.com/ezrashim/bullhorn-novo-template.git`
 * Run `cd bullhorn-novo-template`
 * Run `npm install`
 * Run `ng serve` for a dev server.
